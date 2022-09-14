@@ -1,2 +1,2 @@
-# SimonSays-Game
-Simon Says game administered by a NAO robot
+# NAO-Game
+NAO Robot game giving instructions to children
